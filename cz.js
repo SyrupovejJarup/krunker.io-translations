@@ -1,96 +1,96 @@
 module.exports = `
 menu.btn.ranked Ranked
-menu.btn.shop Shop
+menu.btn.shop Obchod
 menu.btn.social Hub
-menu.btn.maps Games
-menu.btn.mods Mods
-menu.btn.settings Settings
-menu.btn.customize Customize
-menu.btn.invite Invite
-menu.btn.invite.clicked Copied
-menu.btn.join Join
-menu.btn.host Host Game
-menu.btn.browser Servers
-generic.wait Please wait...
-generic.loading LOADING...
-generic.none None
-generic.connecting CONNECTING...
-generic.select Select
-generic.delete Delete
-generic.save Save
-generic.load Load
-generic.search Search
-generic.leave Leave
-generic.default Default
-generic.submit Submit
-generic.create Create
-generic.random Random
-generic.failed Failed
-generic.success Success!
-generic.name Name
+menu.btn.maps Hry
+menu.btn.mods Módy
+menu.btn.settings Nastavení
+menu.btn.customize Přizpůsobit
+menu.btn.invite Pozvat
+menu.btn.invite.clicked Zkopírováno
+menu.btn.join Připojit
+menu.btn.host Vytvořit Hru
+menu.btn.browser Servery
+generic.wait Prosím počkejte...
+generic.loading NAČÍTÁNÍ...
+generic.none Nic
+generic.connecting PŘIPOJOVÁNÍ...
+generic.select Vybrat
+generic.delete Smazat
+generic.save Uložit
+generic.load Nahrát
+generic.search Hledat
+generic.leave Odejít
+generic.default Výchozí
+generic.submit Potvrdit
+generic.create Vytvočit
+generic.random Náhodný
+generic.failed Nepovedlo se!
+generic.success Povedlo se!
+generic.name Jméno
 generic.level Level
-generic.score Score
+generic.score Skóre
 generic.off Off
-generic.defeat DEFEAT
-generic.victory VICTORY
-generic.matchover MATCH OVER
-generic.matchaband MATCH ABANDONED
-generic.follow Follow
-generic.unfollow Unfollow
-generic.followers Followers
-generic.following following
-generic.games Games
-generic.wins Wins
-generic.lose Losses
-generic.clan Clan
-generic.games.played Games Played
-generic.games.won Games Won
-generic.games.lost Games Lost
-generic.timep Time Played
-generic.kills Kills
-generic.deaths Deaths
+generic.defeat PROHRA
+generic.victory VÝHRA
+generic.matchover KOLO JE U KONCE
+generic.matchaband KOLO OPUŠTĚNO
+generic.follow Sledovat
+generic.unfollow Přestat Sledovat
+generic.followers Sledující
+generic.following Sleduje
+generic.games Hry
+generic.wins Výhry
+generic.lose Prohry
+generic.clan Klub
+generic.games.played Zahráno Her
+generic.games.won Vyhraných Her
+generic.games.lost Prohraných Her
+generic.timep Času Stráveno
+generic.kills Zabití
+generic.deaths Umrtí
 generic.kdr KDR
-generic.time Time
-generic.logout Logout
-generic.logout.sessions Logout of all Sessions
-generic.username Enter Username
-generic.password Enter Password
-generic.register Register
-generic.login Login
-generic.accuracy Accuracy
-player.waiting waiting for players
-player.died You died
-player.killed Killed By
-player.killstreak {0} on a {1} Kill Streak
-player.inactive Kicked for inactivity
-player.disconnect DISCONNECTED
-timer.end Next Round in {0}
-leaderboard.empty Empty Lobby
-popup.checkpoint Checkpoint!
-app.play CLICK TO PLAY
-app.spectate CLICK TO SPECTATE
-app.play.mobile TAP TO PLAY
-app.spectate.mobile TAP TO SPECTATE
-app.play.controller PRESS START
-app.spectate.controller START to SPECTATE
-purchase.error Error occurred
-purchase.error.click click here</a> and try again!
+generic.time Čas
+generic.logout Odhlásit
+generic.logout.sessions Odhlásit Ze Všech Zdrojů
+generic.username Zadejte Jméno
+generic.password Zadejte Heslo
+generic.register Registrovat
+generic.login Přihlásit
+generic.accuracy Přesnost
+player.waiting čekání na ostatní hráče
+player.died Umřel Jsi
+player.killed Byl Zabit
+player.killstreak {0} zabil {1} lidí za sebou!
+player.inactive Odpojeno Za Neaktivitu
+player.disconnect ODPOJENO
+timer.end Další Kolo za {0}
+leaderboard.empty Prázdné Lobby
+popup.checkpoint Další Stanoviště!
+app.play KLIKNUTÍM JDI DO HRY
+app.spectate KLIKNUTÍM SPECTATI
+app.play.mobile Zmáčkni Pro Hraní
+app.spectate.mobile Zmáčkní Pro Spectatění
+app.play.controller ZMÁČKNI START
+app.spectate.controller ZAČNI SPECTATOVAT
+purchase.error Stala se Chyba
+purchase.error.click klikni zde</a> a zkus to znovu!
 purchase.error.limit You may have exceeded your daily transaction limit
-settings.reset Reset
-settings.reset.confirm Are you sure you want to reset all your settings?
-settings.import Import
-settings.export Export
-settings.none No settings found
-settings.backup Backup Settings
-settings.controls.change Keybinds
-settings.controls.press Press any Key
-settings.controls.leaderboard InGame Leaderboard Trigger Type
-settings.controls.voicechat Voicechat Trigger Type
-settings.local.header Localization <span id="requiresRestart"><span style="color: #eb5656">*</span> requires restart</span>
-settings.local.region Default Region
-settings.local.lang Language
-settings.network.header Network
-settings.network.netRerouting Auto Routing (Affects Ping)
+settings.reset Resetovat
+settings.reset.confirm Opravdu chceš resetovat svoje nastavení?
+settings.import Uložit
+settings.export Otevřít
+settings.none Nebyla nalezena žádná nastavení
+settings.backup Záložní Nastavení
+settings.controls.change Rozhraní klávesnice
+settings.controls.press Zmáčkni tlačítko
+settings.controls.leaderboard Typ spouště hrací tabulky
+settings.controls.voicechat Typ spouště VoiceChatu
+settings.local.header Lokalizace <span id="requiresRestart"><span style="color: #eb5656">*</span> requires restart</span>
+settings.local.region Výchozí Oblast
+settings.local.lang Jazyk
+settings.network.header Internet
+settings.network.netRerouting Automatické Routrování (Ovlivňuje Ping)
 settings.network.netRate Network Rate (Hz)
 settings.network.lagComp Lag Compensation
 settings.network.optNet Optimized Networking
